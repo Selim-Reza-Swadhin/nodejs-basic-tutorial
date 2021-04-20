@@ -1,16 +1,16 @@
 {
-    "name": "Lession_06",
+    "name": "nodejs_mysql_conn",
     "version": "1.0.0",
     "description": "",
-    "main": "route.js",
+    "main": "index.js",
     "scripts": {
         "test": "echo \"Error: no test specified\" && exit 1",
-        "start": "nodemon routing.js"
+        "start": "node index.js"
     },
     "keywords": [],
     "author": "",
     "license": "ISC",
     "dependencies": {
-        "nodemon": "^2.0.7"
+        "mysql": "^2.18.1"
     }
 }
