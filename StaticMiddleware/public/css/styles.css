@@ -1,0 +1,15 @@
+h1{
+    text-align: center;
+    color: red;
+}
+p{
+    text-align: justify;
+    color: green;
+}
+div{
+    margin-left: 400px;
+}
+img{
+    height: 350px;
+    width: 300px;
+}
